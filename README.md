@@ -1,7 +1,7 @@
 
 # HTML & CSS PROJECT 10 ![img](https://img.shields.io/badge/PROJECT%2010-HTML%20%26%20CSS-orange)
 
-This one is a interior design landing page which created using HTML & CSS. This website is currently not responsive but in coming weeks it will be responsive.
+This one is a interior design landing page which is created using HTML & CSS. This website is currently not responsive but in coming weeks it will be responsive.
 ## Screenshot
 
 ![Project 10](https://user-images.githubusercontent.com/109405477/182112156-4e0cd4b5-213d-48cd-b53e-b61e4e518daa.png)
