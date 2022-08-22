@@ -1,7 +1,7 @@
 
 # HTML & CSS PROJECT 10 ![img](https://img.shields.io/badge/PROJECT%2010-HTML%20%26%20CSS-orange)
 
-This one is a interior design landing page which is created using HTML & CSS. This website is currently not responsive but in coming weeks it will be responsive.
+This one is a interior design landing page which is created using HTML & CSS. This website is fully responsive.
 ## Screenshot
 
 ![Project 10](https://user-images.githubusercontent.com/109405477/182112156-4e0cd4b5-213d-48cd-b53e-b61e4e518daa.png)
@@ -17,9 +17,10 @@ This one is a interior design landing page which is created using HTML & CSS. Th
 
 1. I learned a lot about pseudo selecctors.
 2. I learned a lot about border and box shadow.
-3. I think i have improved my googling since i used google alot whenever i was stuck in this project.
 4. While doing any project i should take one thing at a time.
 5. I shouldn't hurry while doing projects.
+6. I learned more about media queries.
+
 ## Time took to finish the project
 
 It took me 2.5 hours to finish this project and it was fun working on it.
